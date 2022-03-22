@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteKeeper</string>
+    <string name="app_NoteListActivityMain">Note List</string>
+    <string name="btn_addNote">Add Note</string>
+    <string name="placeHolderTitle">Title</string>
+    <string name="placeHolderText">Note</string>
+</resources>

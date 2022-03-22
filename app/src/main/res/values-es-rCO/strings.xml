@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guarda Notas</string>
+    <string name="app_NoteListActivityMain">Lista de notas</string>
+    <string name="btn_addNote">Agregar nota</string>
+    <string name="placeHolderTitle">Titulo</string>
+    <string name="placeHolderText">Nota</string>
+</resources>
