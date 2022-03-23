@@ -18,12 +18,13 @@ class NoteListActivity : AppCompatActivity() {
         }
 
         listNotes.adapter = ArrayAdapter(this,android.R.layout.simple_list_item_1,DataManager.notes)
+
         listNotes.setOnItemClickListener{
             parent,view,position,id ->
             //Using intent
             val activityIntent = Intent(this,MainActivity::class.java)
             //Sending data for a new activity
-            activityIntent.putExtra(EXTRA_NOTE_POSITION,position)
+            activityIntent.putExtra(NOTE_POSITION,position)
             startActivity(activityIntent)
         }
     }

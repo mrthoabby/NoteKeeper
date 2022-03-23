@@ -5,4 +5,6 @@
     <string name="btn_addNote">Agregar nota</string>
     <string name="placeHolderTitle">Titulo</string>
     <string name="placeHolderText">Nota</string>
+    <string name="menu_actionNext">Siguiente</string>
+    <string name="menu_actionSettings">Configuración</string>
 </resources>

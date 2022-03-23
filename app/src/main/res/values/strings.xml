@@ -4,4 +4,6 @@
     <string name="btn_addNote">Add Note</string>
     <string name="placeHolderTitle">Title</string>
     <string name="placeHolderText">Note</string>
+    <string name="menu_actionNext">Next</string>
+    <string name="menu_actionSettings">Settings</string>
 </resources>
